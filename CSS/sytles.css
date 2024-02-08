@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Workbench&display=swap');
+.workbench-font{
+    font-family:'Workbench', sans-serif;
+}
+.press-start-font{
+    font-family: 'Press Start 2P' ,sans-serif;
+    font-size: 14px;
+}
